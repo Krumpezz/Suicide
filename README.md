@@ -7,4 +7,5 @@ Click here to download the plugin. || <a href="https://github.com/Krumpezz/Suici
 ## Source Code
 This plugin is developed on Java 8. However, it should work with any Java versions that is not 7 or lower.
 ## Screenshot
-https://ibb.co/g3mNzJr
+![2022-01-28_10 17 15](https://user-images.githubusercontent.com/88583135/151492778-069770c1-4a44-4380-a62b-b85b6bc420e9.png)
+
