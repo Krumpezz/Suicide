@@ -1,7 +1,7 @@
-# cope
-A custom placeholder plugin that saves placeholders values to a Mongo Database (also per player support!)
+# Suicide
+
 ## Command
-- `/suicide` - Creates a new placeholder
+- `/suicide` - 
 ## Download
 Click here to download the plugin. || Download[https://github.com/Krumpezz/Suicide/releases/tag/1.0] ||
 ## Source Code
