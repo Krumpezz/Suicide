@@ -1,7 +1,7 @@
 # Suicide
-
+A minecraft plugin that let's you suicide in game
 ## Command
-- `/suicide` - 
+- `/suicide` - Let's you to suicide
 ## Download
 Click here to download the plugin. || <a href="https://github.com/Krumpezz/Suicide/releases/tag/1.0">Download</a> ||
 ## Source Code
