@@ -1,9 +1,0 @@
-name: Suicide
-main: me.krumpez.suicide.Main
-version: 1
-api-version: 1.8
-
-commands:
-  suicide:
-    description: A command to let you suicide in game.
-    usage: /<command>
