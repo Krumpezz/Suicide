@@ -1,0 +1,11 @@
+name: Suicide
+version: '2.0'
+main: me.krumpez.suicide.Suicide
+api-version: 1.8
+authors: [ Krumpez ]
+description: A simple plugin that let's you suicide ingame.
+
+commands:
+  suicide:
+    description: A simple command that let's you suicide in game.
+    usage: /<command>
