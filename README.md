@@ -3,7 +3,7 @@ A minecraft plugin that let's you suicide in game
 ## Command
 - `/suicide` - Let's you to suicide
 ## Permission
-- `me.suicide` You can edit this in config.yml.
+- `me.suicide` - You can edit this in config.yml.
 ## Download
 Click here to download the plugin. || <a href="https://github.com/Krumpezz/Suicide/releases/tag/2.0">Download</a> ||
 ## Source Code
