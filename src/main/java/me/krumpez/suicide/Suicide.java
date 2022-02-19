@@ -7,8 +7,7 @@ public final class Suicide extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getConfig().options().copyDefaults();
         saveDefaultConfig();
-        getCommand("suicide").setExecutor(new SuicideCommand());
+        getCommand("suicide").setExecutor(new SuicideCommand(getConfig().getString("Permission")));
     }
 }
